@@ -2,12 +2,12 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // ganti info bot dibawah ini
-global.botName = "ṡṭяѧṿѧɞȏṭẓ"
-global.ownerName = "ʟɛƈƈʏօʄƈ"
-global.ownerNumber = ["628xxxxx"] 
+global.botName = "HE IS MAJESTIC"
+global.ownerName = "HE IS MAJESTIC"
+global.ownerNumber = ["2348108166304"] 
 
-global.Auto_Typing = false // auto typing
-global.Auto_Recording = false // auto recording
+global.Auto_Typing = true // auto typing
+global.Auto_Recording = true // auto recording
 global.Auto_ReadPesan = true // auto read messages
 
 // Auto Downloader Tiktok
